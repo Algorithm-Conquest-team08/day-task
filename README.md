@@ -19,3 +19,5 @@
 [마크다운 문법 - thanks to 성진님](https://markdown-it.github.io/)
 
 [깃 사용법](https://www.youtube.com/watch?v=FXDjmsiv8fI&t=2s)
+
+[면접 질문 모음집](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
