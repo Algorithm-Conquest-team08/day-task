@@ -6,7 +6,7 @@
 | ------ | ----------- |
 | 13회차 - 퀵 정렬| 리스트 정렬|
 |       | 색 정렬|
-| | [좌표 정렬하기 (심화)](https://www.acmicpc.net/problem/11651)
+| | [좌표 정렬하기 (심화)](https://www.acmicpc.net/problem/11650)
 | | [좌표 정렬하기 2 (심화)](https://www.acmicpc.net/problem/11651)
 | 14회차 - 병합 정렬| 구간 병합
 || [단어 정렬 (심화)](https://www.acmicpc.net/problem/1181)
