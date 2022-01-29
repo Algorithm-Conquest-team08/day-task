@@ -5,4 +5,4 @@
 
 [마크다운 문법 - thanks to 성진님](https://markdown-it.github.io/)
 
-https://www.youtube.com/watch?v=FXDjmsiv8fI&t=2s 깃 사용법
+[깃 사용법](https://www.youtube.com/watch?v=FXDjmsiv8fI&t=2s)
