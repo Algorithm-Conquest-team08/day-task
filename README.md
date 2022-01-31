@@ -4,13 +4,13 @@
 ## 과제 목록 - 정렬
 | 회차 | 문제 |
 | ------ | ----------- |
-| 13회차 - 퀵 정렬| 리스트 정렬|
-|       | 색 정렬|
+| 13회차 - 퀵 정렬| [리스트 정렬](https://leetcode.com/problems/sort-list/)|
+|       | [색 정렬](https://leetcode.com/problems/sort-colors/)|
 | | [좌표 정렬하기 (심화)](https://www.acmicpc.net/problem/11650)
 | | [좌표 정렬하기 2 (심화)](https://www.acmicpc.net/problem/11651)
-| 14회차 - 병합 정렬| 구간 병합
+| 14회차 - 병합 정렬| [구간 병합](https://leetcode.com/problems/merge-intervals/)
 || [단어 정렬 (심화)](https://www.acmicpc.net/problem/1181)
-| 15회차 - 힙 정렬| 유효한 애너그램|
+| 15회차 - 힙 정렬| [유효한 애너그램](https://leetcode.com/problems/valid-anagram/)|
 ||[나이순 정렬 (심화)](https://www.acmicpc.net/problem/10814)
 ||[수 정렬하기 (심화)](https://www.acmicpc.net/problem/2751)
 
